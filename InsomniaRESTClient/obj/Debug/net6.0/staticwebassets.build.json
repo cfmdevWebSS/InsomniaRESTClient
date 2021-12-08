@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4aMudFPcjep7woNw2Q1jms5w59zTJAoxu1SDw+vPLbs=",
+  "Source": "InsomniaRESTClient",
+  "BasePath": "_content/InsomniaRESTClient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
